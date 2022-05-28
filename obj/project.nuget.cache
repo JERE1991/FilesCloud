@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7JkN0t0AodNGIgqYfcs0Z0qbw8Eatt+fNpI70YK2SvVhr5R5VT+9AlFFkU4bbCOLyIRBxIyaX9p7NdrLfRABFw==",
+  "dgSpecHash": "d+mfr6ptChEt3wgn0oWxRFUt6axxSX1mz6mRUNUKTncIN2NYd+le2Hej62VpUSLgKir1XJBbjKxwO23OvKeK0w==",
   "success": true,
   "projectFilePath": "C:\\Users\\jerem\\OneDrive\\Documents\\FilesCloud\\WebApplication1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jerem\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
   "logs": []
 }
